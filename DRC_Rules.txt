@@ -1,0 +1,14 @@
+Please follow the DRC as outlined below. If these rules are violated, your PCB will not be printed.
+
+    Minimum clearance(track to track) - 0.3 mm
+    Minimum track width - 0.3 mm
+    Minimum track-pad clearance - 0.3 mm
+    Minimum connection width - 0.3 mm
+    Minimum copper to hole clearance - 0.4 mm
+    Minimum copper to edge clearance - 2 mm
+    Minimum pad-pad clearance - 0.4mm
+    Minimum through hole - 0.4mm
+    Minimum annular width - 0.2mm
+    Hole to hole clearance - 1.5 mm
+    A sharp bend of 90 degrees or an acute bend in the tracks is NOT allowed.
+    The design must be of a single layer. No VIAs are allowed.
